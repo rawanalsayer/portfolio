@@ -1,0 +1,155 @@
+
+
+
+html,body{
+min-width:900px;
+	font-size: 18px;
+	font-family:  'Banks-Miles-Single-Line';
+ background-attachment:fixed;
+background-repeat: no-repeat;
+ background-color: #D7CEC7;
+
+}
+
+.container{
+	*position:fixed; 
+	background-color:#C09F80;
+padding:5px;
+	margin: auto;
+background-size: cover;
+width:auto;
+height:100px;
+}
+
+h1,h3 {
+text-decoration: none;
+color: 76323f;
+font-family:  'Banks Miles Single Line';
+z-index:100;
+text-align: left;
+
+}
+
+.i{
+	font-family:  'Banks Miles Single Line';
+	color: 76323f;
+	text-align: center;
+}
+.footer {
+	margin-top: 40px
+
+}
+
+.footer a{
+	margin:20px 
+}
+
+h1{
+	text-align: center;
+	color: black;
+}
+.con li, .con ul  {
+	margin-left:30px;
+	margin-right:30px;
+	display: inline-block;
+	
+	border-left: 5px solid #C09F80;
+	padding : 5px; 
+}
+.con{
+	
+	display: inline-block;
+}
+.c{
+	border-left: 5px solid #C09F80;
+	padding : 15px; 
+		margin-left:30px;
+	margin-right:30px;
+	display: inline-block;
+}
+
+.images{
+margin:40px auto 40px auto;
+padding: 30px 0px;
+text-align: center;
+width:90%;
+background-color: white;
+position:relative;
+display: block;
+
+}
+
+.button {
+	background-color: #C09F80;
+	font-family:  'Banks Miles Single Line';
+	font-size: 1em;
+
+}
+
+
+.container .user-menu{
+	list-style: none;
+position:relative ;
+
+padding: 20px 25px;
+
+
+}
+
+.container li{
+	display: inline-block;
+float: left;
+
+}
+
+
+
+.container .user-menu a{
+	text-indent: 10px;
+text-decoration:none;
+color: black;
+font-weight: bold;
+	border-right: 5px solid #eee;
+	padding: 5px 25px;
+left : 100px; 
+position:relative;
+font-family:  'Banks Miles Single Line';
+
+}
+
+
+
+
+p {
+color: black;
+font-weight: bold;
+text-indent: 10px;
+text-align: center;
+font-size: 2.8em;
+font-family: 'Banks Miles Single Line';
+margin-top: 1.313em; 
+padding:5px;
+color: 76323f;
+
+}
+
+h2{
+background-color: white;
+font-family: 'Banks Miles Single Line';
+text-align: left;
+padding-left : 40px; 
+color: black;
+
+}
+
+
+
+.user-menu a:hover {
+text-decoration: underline;
+}
+
+
+
+
+
+
